@@ -48,7 +48,7 @@ export default function Home() {
   const womenCard = {
     title: language === "lv" ? "Sievietēm" : "For Women",
     text: language === "lv"
-      ? "Tehnika, izpausme, identitāte. Iespēja izdejot savu stāstu spēkā un gaismā."
+      ? "Mūsdienu dejas nodarbības, kur attīstām kustības kvalitāti, muzikalitāti un brīvu, dzīvu klātbūtni dejā."
       : "Technique, expression, identity. A space to dance your story into strength and light."
   };
 

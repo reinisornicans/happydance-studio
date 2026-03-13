@@ -8,7 +8,7 @@ import { Check, MapPin, Clock, Users } from "lucide-react";
 
 // Women dance class image
 const womenHeroImg = "/assets/images/women-hero.jpg";
-const danceMovementImg = "/assets/images/dance-movement.jpg";
+const danceMovementImg = "/assets/images/dance-movement-new.png";
 
 export default function Women() {
   const { t } = useLanguage();

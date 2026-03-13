@@ -115,7 +115,7 @@ const translations: Record<Language, Record<string, string>> = {
     "teachers.getFree": "Saņemt Bez Maksas",
     
     // Women page  
-    "women.hero.title": "Ieelpo dzīvi caur deju.",
+    "women.hero.title": "Dance Me Alive",
     "women.hero.subtitle": "Deju nodarbības sievietēm",
     "women.hero.tagline": "Tehnika, izpausme, identitāte. Iespēja izdejot savu stāstu spēkā un gaismā.",
     "women.hero.quote": "Deja ir ķermeņa dziesma.",
@@ -442,7 +442,7 @@ const translations: Record<Language, Record<string, string>> = {
     "teachers.getFree": "Get Free",
     
     // Women page
-    "women.hero.title": "Dance Me Alive.",
+    "women.hero.title": "Dance Me Alive",
     "women.hero.subtitle": "Movement for Women",
     "women.hero.tagline": "Technique, expression, identity. A space to dance your story into strength and light.",
     "women.hero.quote": "Dance is the song of the body.",

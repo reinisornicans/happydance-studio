@@ -55,7 +55,7 @@ export default function Home() {
   const couplesCard = {
     title: language === "lv" ? "Pāriem" : "For Couples",
     text: language === "lv"
-      ? "Kustība, kas stiprina saikni, uzticību un veidu, kā jūs sastopat viens otru."
+      ? "Deju nodarbības, kur attīstām kustības kvalitāti, muzikalitāti un dzīvu saskaņu dejā vienam ar otru."
       : "Movement that strengthens connection, trust, and the way you meet each other."
   };
 

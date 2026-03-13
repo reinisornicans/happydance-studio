@@ -34,6 +34,7 @@ export default function Couples() {
     queryKey: ["/api/booking/availability"],
     queryFn: async () => {
       const res = await fetch(`/api/booking/availability?from=${today.toISOString()}&to=${twoMonthsLater.toISOString()}`);
+      if (!res.ok) return [];
       return res.json();
     },
     staleTime: 30000,

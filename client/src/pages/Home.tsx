@@ -18,7 +18,7 @@ const womenClassImg = "/assets/images/women-class.jpg";
 const womenHeroImg = "/assets/images/women-hero.jpg";
 const couplesDanceImg = "/assets/images/couples-dance.jpg";
 const teachersImg = "/assets/images/teachers-guide.jpg";
-const danceMovementImg = "/assets/images/dance-movement.jpg";
+const danceMovementImg = "/assets/images/dance-movement-new.png";
 const weddingDanceImg = "/assets/images/wedding-dance.jpg";
 const outdoorDanceImg = "/assets/images/teachers/outdoor-dance.jpg";
 
@@ -48,21 +48,21 @@ export default function Home() {
   const womenCard = {
     title: language === "lv" ? "Sievietēm" : "For Women",
     text: language === "lv"
-      ? "Mūsdienu dejas nodarbības, kur attīstām kustības kvalitāti, muzikalitāti un brīvu, dzīvu klātbūtni dejā."
+      ? "Attīstām kustības kvalitāti, muzikalitāti un brīvu, dzīvu klātbūtni dejā."
       : "Technique, expression, identity. A space to dance your story into strength and light."
   };
 
   const couplesCard = {
     title: language === "lv" ? "Pāriem" : "For Couples",
     text: language === "lv"
-      ? "Deju nodarbības, kur attīstām kustības kvalitāti, muzikalitāti un dzīvu saskaņu dejā vienam ar otru."
+      ? "Attīstām kustības kvalitāti, muzikalitāti un dzīvu saskaņu dejā vienam ar otru."
       : "Movement that strengthens connection, trust, and the way you meet each other."
   };
 
   const teachersCard = {
     title: language === "lv" ? "Skolotājiem" : "For Teachers",
     text: language === "lv"
-      ? "Digitālie resursi pārdomātai, iedvesmojošai un radošai mācīšanai."
+      ? "Resursi deju skolotājiem jēgpilnam, apzinātam un iedvesmojošam darbam."
       : "Digital resources for thoughtful, inspiring, and creative teaching."
   };
 
